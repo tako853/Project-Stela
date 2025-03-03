@@ -1,0 +1,27 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景 -->
+  <rect width="100%" height="100%" fill="#f0f8ff"/>
+  
+  <!-- アジフライの体 -->
+  <ellipse cx="100" cy="100" rx="70" ry="45" fill="#f4a460" stroke="#cd853f" stroke-width="3" />
+  
+  <!-- 衣のサクサク感を表現 -->
+  <circle cx="70" cy="70" r="5" fill="#ffa54f"/>
+  <circle cx="130" cy="80" r="6" fill="#ffa54f"/>
+  <circle cx="90" cy="120" r="5" fill="#ffa54f"/>
+  <circle cx="110" cy="50" r="4" fill="#ffa54f"/>
+  
+  <!-- 目（左） -->
+  <circle cx="75" cy="95" r="7" fill="#ffffff"/>
+  <circle cx="75" cy="95" r="3" fill="#000000"/>
+  
+  <!-- 目（右） -->
+  <circle cx="125" cy="95" r="7" fill="#ffffff"/>
+  <circle cx="125" cy="95" r="3" fill="#000000"/>
+  
+  <!-- 笑顔の口 -->
+  <path d="M80,115 Q100,130 120,115" stroke="#8b4513" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <!-- 尾びれ -->
+  <polygon points="30,100 10,85 10,115" fill="#f4a460" stroke="#cd853f" stroke-width="3"/>
+</svg>
